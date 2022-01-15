@@ -1,0 +1,2 @@
+0|0|Pacman
+0|1|Obstacle
